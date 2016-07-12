@@ -1,5 +1,8 @@
-require "test/version"
 
 module Test
-  # Your code goes here...
+  class Hola
+	  def self.hi
+	    puts "Hello world!"
+	  end
+  end
 end
