@@ -1,4 +1,4 @@
-
+require 'bundler/setup'
 module Test
   class Hola
 	  def self.hi
